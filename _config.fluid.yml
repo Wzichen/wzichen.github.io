@@ -735,7 +735,7 @@ post:
 # Based on GitHub Issues
 # See: https://utteranc.es
 utterances:
-  repo: wzcUtteranc
+  repo: Wzichen/wzcUtteranc
   issue_term: pathname
   label: utterances
   theme: github-light
